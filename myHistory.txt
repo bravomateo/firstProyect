@@ -1,5 +1,1 @@
-Esta es mi historia 
-
-Mateo tiene 21 años, le gusta la tecnologia y nacio en Colombia
-
-Hoy veremos la historia de él. Además está es una prueba de uso de GitHub
+Esta es una prueba para ver los cambios en Git y GitHub
