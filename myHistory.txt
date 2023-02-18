@@ -1,1 +1,1 @@
-Esta es una prueba para ver los cambios en Git y GitHub
+Esta es una prueba para ver los cambios en Git y GitHub.
